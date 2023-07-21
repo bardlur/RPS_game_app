@@ -1,0 +1,40 @@
+name: rps_game_app
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+
+     - images/1.png
+     - images/2.png
+     - images/3.png
+ 
+  fonts:
+    - family: vazir
+      fonts:
+        - asset: fonts/vazir_fd_medium_wol.ttf
+ 
