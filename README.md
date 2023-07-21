@@ -1,2 +1,2 @@
-# rock_papaer_scissors_game
+# Flutter: Rock Paper Scissors game app
 A simple Rock Paper Scissors game project with Flutter.
