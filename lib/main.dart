@@ -22,11 +22,9 @@ class _gameApplicationState extends State<gameApplication> {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(fontFamily: 'vazir'),
       home: Scaffold(
-        // backgroundColor: Color.fromRGBO(104, 105, 99, 100),
         backgroundColor: Color.fromRGBO(52, 73, 110, 100),
         appBar: AppBar(
           centerTitle: true,
-          // backgroundColor: Color.fromRGBO(1, 22, 39, 100),
           backgroundColor: Color.fromRGBO(13, 24, 35, 100),
           title: Text('سنگ  کاغذ  قیچی'),
         ),
